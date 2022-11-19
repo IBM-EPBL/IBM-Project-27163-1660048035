@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0088d77583981be8a645634fef331bae",
+        "name": "ABCDE_s%20of%20Melanoma_%20What%20to%20Look%20For.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/ABCDE_s%20of%20Melanoma_%20What%20to%20Look%20For.jpg",
+        "size": {
+            "width": 3000,
+            "height": 2000
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "_QeaaL9Do",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 850.2857317243304,
+                "width": 242.28550502232144,
+                "left": 2250.8572823660716,
+                "top": 749.7142682756696
+            },
+            "points": [
+                {
+                    "x": 2250.8572823660716,
+                    "y": 749.7142682756696
+                },
+                {
+                    "x": 2493.142787388393,
+                    "y": 749.7142682756696
+                },
+                {
+                    "x": 2493.142787388393,
+                    "y": 1600
+                },
+                {
+                    "x": 2250.8572823660716,
+                    "y": 1600
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
