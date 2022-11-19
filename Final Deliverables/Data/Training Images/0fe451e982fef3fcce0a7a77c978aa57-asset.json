@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0fe451e982fef3fcce0a7a77c978aa57",
+        "name": "Psoriasis%20or%20skin%20cancer_%20How%20to%20tell%20(4).jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20or%20skin%20cancer_%20How%20to%20tell%20(4).jpg",
+        "size": {
+            "width": 1100,
+            "height": 734
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "9CkrCM_xu",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 205.51999999999998,
+                "width": 276.835081029552,
+                "left": 349.4256498702261,
+                "top": 238.23544137137276
+            },
+            "points": [
+                {
+                    "x": 349.4256498702261,
+                    "y": 238.23544137137276
+                },
+                {
+                    "x": 626.2607308997781,
+                    "y": 238.23544137137276
+                },
+                {
+                    "x": 626.2607308997781,
+                    "y": 443.75544137137274
+                },
+                {
+                    "x": 349.4256498702261,
+                    "y": 443.75544137137274
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

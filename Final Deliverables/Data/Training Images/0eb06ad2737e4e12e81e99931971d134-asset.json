@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0eb06ad2737e4e12e81e99931971d134",
+        "name": "Psoriasis%20(1).jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20(1).jpg",
+        "size": {
+            "width": 683,
+            "height": 512
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "LZaQ19xhd",
+            "type": "RECTANGLE",
+            "tags": [
+                "Psoriasis"
+            ],
+            "boundingBox": {
+                "height": 243.85830357142856,
+                "width": 521.683293181262,
+                "left": 25.594218415417558,
+                "top": 97.28
+            },
+            "points": [
+                {
+                    "x": 25.594218415417558,
+                    "y": 97.28
+                },
+                {
+                    "x": 547.2775115966796,
+                    "y": 97.28
+                },
+                {
+                    "x": 547.2775115966796,
+                    "y": 341.1383035714286
+                },
+                {
+                    "x": 25.594218415417558,
+                    "y": 341.1383035714286
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
