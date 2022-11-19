@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0829eaa843cffefe00d4cf9a107460c6",
+        "name": "What%20questions%20should%20I%20ask_%20(1).jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/What%20questions%20should%20I%20ask_%20(1).jpg",
+        "size": {
+            "width": 916,
+            "height": 882
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "lgSEq_3KR",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 495.9360269165039,
+                "width": 558.4197459056911,
+                "left": 175.26221945656377,
+                "top": 182.44800384521486
+            },
+            "points": [
+                {
+                    "x": 175.26221945656377,
+                    "y": 182.44800384521486
+                },
+                {
+                    "x": 733.6819653622549,
+                    "y": 182.44800384521486
+                },
+                {
+                    "x": 733.6819653622549,
+                    "y": 678.3840307617188
+                },
+                {
+                    "x": 175.26221945656377,
+                    "y": 678.3840307617188
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

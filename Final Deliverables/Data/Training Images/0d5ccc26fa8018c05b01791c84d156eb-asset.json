@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0d5ccc26fa8018c05b01791c84d156eb",
+        "name": "Erythema%20multiforme%20skin%20lesions%20with%20some%20vesiculation_yy.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Erythema%20multiforme%20skin%20lesions%20with%20some%20vesiculation_yy.jpg",
+        "size": {
+            "width": 462,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "xtbT072Mm",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 76.89028748897924,
+                "width": 281.9339845718876,
+                "left": 50.58329903242484,
+                "top": 80.31348297214807
+            },
+            "points": [
+                {
+                    "x": 50.58329903242484,
+                    "y": 80.31348297214807
+                },
+                {
+                    "x": 332.51728360431247,
+                    "y": 80.31348297214807
+                },
+                {
+                    "x": 332.51728360431247,
+                    "y": 157.2037704611273
+                },
+                {
+                    "x": 50.58329903242484,
+                    "y": 157.2037704611273
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

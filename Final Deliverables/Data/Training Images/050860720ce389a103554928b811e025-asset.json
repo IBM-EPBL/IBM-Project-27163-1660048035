@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "050860720ce389a103554928b811e025",
+        "name": "Wasp%20sting.%20Red%20swollen%20arm%20closeup.%20Skin%20allergy_y.jpg",
+        "path": "file:C:/Users/K%20L%20J%20Varshini/OneDrive/Desktop/IBM/IBM-Project-19593-1659701859/yolo_structure/Data/Source_Images/Training_Images/Wasp%20sting.%20Red%20swollen%20arm%20closeup.%20Skin%20allergy_y.jpg",
+        "size": {
+            "width": 392,
+            "height": 280
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "OOmu27RP1",
+            "type": "RECTANGLE",
+            "tags": [
+                "Eczema"
+            ],
+            "boundingBox": {
+                "height": 158.08001098632815,
+                "width": 176.639990234375,
+                "left": 111.68000488281251,
+                "top": 54.07999877929688
+            },
+            "points": [
+                {
+                    "x": 111.68000488281251,
+                    "y": 54.07999877929688
+                },
+                {
+                    "x": 288.3199951171875,
+                    "y": 54.07999877929688
+                },
+                {
+                    "x": 288.3199951171875,
+                    "y": 212.160009765625
+                },
+                {
+                    "x": 111.68000488281251,
+                    "y": 212.160009765625
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
